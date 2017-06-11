@@ -21,7 +21,7 @@ This will run the automated build process, start up a webserver, and open the ap
 7. Delete any .eslintrc in your user directory and disable any ESLint plugin / custom rules within your editor since these will conflict with the ESLint rules defined in the course.
 8. Nothing above work? Delete your node_modules folder and re-run npm install.
 
-###Production Dependencies
+### Production Dependencies
 | **Dependency** | **Use** |
 |----------|-------|
 |babel-polyfill | Polyfill for Babel features that cannot be transpiled |
