@@ -6,7 +6,7 @@ describe('Course Reducer', () => {
   it('should add course whrn passed CREATE_COURSE_SUCCESS', () => {
     const initialState =[
       {title: 'A'},
-      {title: 'B'},
+      {title: 'B'}
     ];
 
     const newCourse = {title: 'C'};
